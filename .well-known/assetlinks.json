@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.alkawthar.teacher",
+    "sha256_cert_fingerprints": ["B7:EE:84:2A:D2:37:D6:0F:C5:5B:7B:A1:5E:0E:AA:EA:CA:01:2A:FC:57:9A:BE:7D:FD:13:D7:DB:11:37:BD:77"]
+  }
+}]
